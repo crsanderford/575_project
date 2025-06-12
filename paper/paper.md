@@ -2,14 +2,12 @@
 <font color="#CCCCCC">
 
 <style>
-/* Style the footnote reference (the number in the text) */
 .footnote-ref a {
-  color:rgb(196, 74, 18); /* Set the desired color (red in this example) */
+  color:rgb(196, 74, 18);
 }
 
-/* Style the links within the footnote list */
 .footnotes a {
-  color: rgb(196, 74, 18); /* Set the desired color (blue in this example) */
+  color: rgb(196, 74, 18);
 }
 </style>
 
